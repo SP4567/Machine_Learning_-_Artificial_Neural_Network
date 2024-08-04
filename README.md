@@ -1,9 +1,5 @@
 # Machine_Learning_-_Artificial_Neural_Network
 
-Here’s a detailed description for the GitHub repository on artificial neural networks:
-
----
-
 ### Repository Name: Machine Learning - Artificial Neural Network
 
 #### Overview
